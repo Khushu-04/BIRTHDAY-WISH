@@ -22,7 +22,7 @@ export function Hero() {
               Another year of awesome! ✨
             </div>
             <div className="text-center mt-2 font-dancing text-xl text-gray-700">
-              05 September 2025 🎈🎇
+              20 October 2025 🎈🎇
             </div>
           </div>
         </div>
